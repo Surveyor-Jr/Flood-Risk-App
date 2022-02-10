@@ -21,8 +21,8 @@
     "authorizedCrossOriginDomains": [
         "www.africageoportal.com"
     ],
-    "title": "Flood Risk Visualization",
-    "subtitle": "Chimanimani Area in Zimbabwe",
+    "title": "Flood Risk Visualization (Chimanimani)",
+    "subtitle": "built by - Munetsi Alleta Chidochashe (R185252D)",
     "keepAppState": true,
     "logo": "https://africageoportal.maps.arcgis.com/sharing/rest/content/items/${itemId}/resources/inConfig/10127070975645713.png",
     "geometryService": "https://utility.arcgisonline.com/arcgis/rest/services/Geometry/GeometryServer",
